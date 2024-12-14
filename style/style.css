@@ -77,3 +77,10 @@ background: rgb(82, 195, 3);
 .The{
     text-align: center;
 }
+
+                     /* card-box */
+
+   #card-box{
+    margin-top: 10%;
+    background-color: aqua;
+   }                  
